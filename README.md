@@ -1,0 +1,2 @@
+# Fokker-Planck-Equation-Using-FTCS-Method
+In statistical mechanics the Fokker-Planck Equation (FPE) is a partial differential equation describing the dragged velocity of a probability density function with time. We will be investigating a numerical solution to the partial differential equation using numerical methods. The method used will be the forward time centered space method. Our ending goal would be to solve the FPE numerically in two dimensions. 
